@@ -21,16 +21,21 @@ Available addons
 ----------------
 addon | version | maintainers | summary
 --- | --- | --- | ---
+[product_code_mandatory](product_code_mandatory/) | 17.0.1.0.0 |  | Set Product Internal Reference as a required field
 [product_code_unique](product_code_unique/) | 17.0.1.0.0 |  | Set Product Internal Reference as Unique
 [product_dimension](product_dimension/) | 17.0.1.0.0 |  | Product Dimension
 [product_logistics_uom](product_logistics_uom/) | 17.0.1.0.0 | [![hparfr](https://github.com/hparfr.png?size=30px)](https://github.com/hparfr) | Configure product weights and volume UoM
+[product_packaging_dimension](product_packaging_dimension/) | 17.0.1.0.0 |  | Manage packaging dimensions and weight
 [product_pricelist_supplierinfo](product_pricelist_supplierinfo/) | 17.0.1.0.0 | [![luisg123v](https://github.com/luisg123v.png?size=30px)](https://github.com/luisg123v) | Allows to create priceslists based on supplier info
+[product_secondary_unit](product_secondary_unit/) | 17.0.1.0.0 | [![sergio-teruel](https://github.com/sergio-teruel.png?size=30px)](https://github.com/sergio-teruel) | Set a secondary unit per product
 [product_sequence](product_sequence/) | 17.0.1.0.0 |  | Product Sequence
 [product_set](product_set/) | 17.0.1.0.1 |  | Product set
 [product_state](product_state/) | 17.0.1.0.0 | [![emagdalenaC2i](https://github.com/emagdalenaC2i.png?size=30px)](https://github.com/emagdalenaC2i) | Module introducing a state field on product template
 [product_status](product_status/) | 17.0.1.0.0 |  | Product Status Computed From Fields
 [product_supplierinfo_archive](product_supplierinfo_archive/) | 17.0.1.0.0 | [![GuillemCForgeFlow](https://github.com/GuillemCForgeFlow.png?size=30px)](https://github.com/GuillemCForgeFlow) [![AlvaroTForgeFlow](https://github.com/AlvaroTForgeFlow.png?size=30px)](https://github.com/AlvaroTForgeFlow) [![OriolVForgeFlow](https://github.com/OriolVForgeFlow.png?size=30px)](https://github.com/OriolVForgeFlow) | Add the active field to the product supplier info
 [product_supplierinfo_for_customer](product_supplierinfo_for_customer/) | 17.0.1.0.1 |  | Allows to define prices for customers in the products
+[product_supplierinfo_revision](product_supplierinfo_revision/) | 17.0.1.0.0 |  | Product Supplierinfo Revision
+[uom_category_active](uom_category_active/) | 17.0.1.0.0 |  | Add option to archive UoM categories
 
 [//]: # (end addons)
 
